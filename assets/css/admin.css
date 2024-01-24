@@ -1,0 +1,6 @@
+/*html, body {*/
+/*    overflow: hidden;*/
+/*}*/
+.v-table tbody tr:hover{
+    background: #f5f5f5;
+}

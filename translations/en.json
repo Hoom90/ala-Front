@@ -1,0 +1,7 @@
+{
+    "name":"salam",
+    "language":"language",
+    "hello": "Hello, {name}!",
+    "appName":"ala Control Panel"
+
+}

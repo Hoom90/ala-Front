@@ -1,0 +1,6 @@
+{
+    "name":"ala-app",
+    "language":"زبان",
+    "hello": "سلام, {name}!",
+    "appName":"کنترل پنل آلا"
+}
